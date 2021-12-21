@@ -4,7 +4,7 @@
   "description": "Pruebas automatizadas de tienda de ropa",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "npx cypress run"
   },
   "author": "Javier Molina",
   "license": "ISC",
